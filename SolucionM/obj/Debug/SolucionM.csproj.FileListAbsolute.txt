@@ -1,0 +1,7 @@
+C:\Users\coyad\source\repos\SolucionR\SolucionM\obj\Debug\SolucionM.csproj.CoreCompileInputs.cache
+C:\Users\coyad\source\repos\SolucionR\SolucionM\bin\Debug\SolucionM.exe.config
+C:\Users\coyad\source\repos\SolucionR\SolucionM\bin\Debug\SolucionM.exe
+C:\Users\coyad\source\repos\SolucionR\SolucionM\bin\Debug\SolucionM.pdb
+C:\Users\coyad\source\repos\SolucionR\SolucionM\obj\Debug\SolucionM.exe
+C:\Users\coyad\source\repos\SolucionR\SolucionM\obj\Debug\SolucionM.pdb
+C:\Users\coyad\source\repos\SolucionR\SolucionM\obj\Debug\SolucionM.csproj.AssemblyReference.cache
